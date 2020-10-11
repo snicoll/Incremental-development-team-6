@@ -74,7 +74,7 @@ Creating task and assigning issues:
    - Write a paragraph introduction
    - Create a link back to the README
 3. Change their list item into a link in the README.md
-4. The file will be assigned to **Preeti**
+4. The file will be assigned to **Rafael**
 
 ---
 
